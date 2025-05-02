@@ -8,7 +8,7 @@
 # and does not provide adequate protection. Cisco may modify or terminate the List or stop maintaining the List
 # at any time and without notice.
 #
-# You are free to use, copy and distribute non-profit this file, but be careful and do at your own risk!
+# You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
 #
 # This report is free for non-commercial use ONLY!
 #-------------------------------------------------------------------------------------------------------------------------
