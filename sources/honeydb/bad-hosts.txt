@@ -5,7 +5,9 @@
 # Creator           : https://github.com/allexBR/
 # Services          : MSSQL, VNC, SSH, SIP, RDP, HTTP, Telnet, DNS.udp, FTP, MySQL
 #
-# You are free to use, copy and distribute non-profit this file, but be careful and do at your own risk!
+# You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
+#
+# This report is free for non-commercial use ONLY!
 #-------------------------------------------------------------------------------------------------------------------------
 #
 178.18.247.124
