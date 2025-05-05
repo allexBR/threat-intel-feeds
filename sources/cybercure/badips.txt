@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------------------------------------------------
-# This file was generated from the CyberCure.ai: https://api.cybercure.ai/feed/get_ips?type=csv
+# This file was generated from the CyberCure API: https://api.cybercure.ai/feed/get_ips?type=csv
 # File creation date: Mon May 05 14:36:03 UTC 2025
 # Update frequency  : 7 days
 # Creator           : https://github.com/allexBR/
