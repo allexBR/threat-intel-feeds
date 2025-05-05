@@ -1,9 +1,14 @@
 #-------------------------------------------------------------------------------------------------------------------------
 # This file was generated from the Dataplane.org: https://dataplane.org/signals.html
-# File creation date: Fri May 02 16:03:32 UTC 2025
+# File creation date: Fri May 02 16:03:22 UTC 2025
 # Update frequency  : 7 days
 # Creator           : https://github.com/allexBR/
 # Signals           : DNS | SIP | SMTP | SSH | Telnet | VNC
+#
+# Dataplane advisory: This report is informational. This is not a block list. Deriving malicious or benign intent for an
+# individual entry in the face of NATs, address spoofing, and certain types of Internet activity (e.g., surveying research)
+# can be difficult.  The report is provided on an as-is basis with no expressed warranty or guarantee of accuracy. Use of
+# this data is at your own risk.  If you have questions about this report do not hesitate to contact us.
 #
 # You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
 #
