@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------------------------------------------
 # This file was generated from the GPF DNS Block List Export: https://www.gpf-comics.com/dnsbl/export.php
-# File creation date: Fri May 02 17:14:03 UTC 2025
+# File creation date: Mon May 05 14:14:03 UTC 2025
 # Update frequency  : 7 days
 # Creator           : https://github.com/allexBR/
 #
