@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------------------------------------------------
 # This file was generated from the AbuseIPDB API: https://docs.abuseipdb.com/#plaintext-blacklist
 # File creation date: Tue May 06 11:38:54 UTC 2025
-# Update frequency  : 7 days
+# Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
 #
 # Confidence of Abuse is 100%
