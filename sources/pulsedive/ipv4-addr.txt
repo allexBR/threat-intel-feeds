@@ -4,9 +4,9 @@
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
 #
-# Pulsedive test data collection ID: 981c4916-ebb2-4567-aece-54ae970c4230
-# This is a test collection containing live, sample indicator objects.
+# Pulsedive advisory: This is a test collection containing live, sample indicator objects.
 # It is available to anyone for free, for the purposes of testing, debugging, or even just learning about STIX and TAXII.
+# Test data collection ID: 981c4916-ebb2-4567-aece-54ae970c4230
 #
 #
 # You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
