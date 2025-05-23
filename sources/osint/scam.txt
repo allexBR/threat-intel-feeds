@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-# This file was generated from Microsoft Outlook (formerly Hotmail) through my personal research.
+# This file was generated using Microsoft Outlook (formerly Hotmail) based on my personal research.
 # File creation date: Fri May 23 17:02:06 UTC 2025
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
