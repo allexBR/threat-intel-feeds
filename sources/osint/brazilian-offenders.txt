@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-# This file was generated from research into Open-Source Intelligence (OSINT)
+# This file was generated using Open-Source Intelligence (OSINT) based on my personal research.
 # File creation date: Fri May 23 14:30:40 UTC 2025
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
