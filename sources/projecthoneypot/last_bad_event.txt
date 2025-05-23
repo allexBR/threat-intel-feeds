@@ -1,0 +1,36 @@
+#-----------------------------------------------------------------------------------------------------------------------------
+# This file was generated from the Project Honey Pot IP Data: http://www.projecthoneypot.org/list_of_ips.php?rss=1
+# File creation date: Fri May 23 17:57:45 UTC 2025
+# Update frequency  : undetermined
+# Creator           : https://github.com/allexBR/
+# Tags              : Harvester, Spam Server, Bad Web Hosts, Comment Spammer, Dictionary Attacker, Rule Breaker, Search Engine
+#
+# You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
+#
+# This report is free for non-commercial use ONLY!
+#-----------------------------------------------------------------------------------------------------------------------------
+#
+91.238.105.211
+119.113.196.120
+103.59.95.156
+103.243.242.21
+103.19.116.27
+91.238.105.204
+141.11.252.93
+91.238.105.209
+91.237.122.108
+112.192.184.106
+177.86.14.47
+92.46.146.86
+103.59.95.240
+91.238.105.205
+103.149.29.12
+101.226.22.188
+103.232.202.108
+103.29.182.206
+187.19.160.202
+103.243.240.242
+105.154.211.43
+177.130.76.225
+172.245.23.136
+103.181.143.207
