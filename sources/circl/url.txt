@@ -4,7 +4,7 @@
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
 #
-# Advisory: CIRCL is the CERT for the private sector, communes and non-governmental entities in Luxembourg.
+# About: CIRCL is the CERT for the private sector, communes and non-governmental entities in Luxembourg.
 # CIRCL provides a reliable and trusted point of contact for any users, companies and organizations based in Luxembourg,
 # for the handling of attacks and incidents. Its team of experts acts like a fire brigade, with the ability to react
 # promptly and efficiently whenever threats are suspected, detected or incidents occur.
