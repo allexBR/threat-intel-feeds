@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------------------------------------------
 # This file was generated from the Pulsedive Threat Intelligence STIX via TAXII: https://pulsedive.com/api/taxii
-# File creation date: Tue May 13 17:41:34 UTC 2025
+# File creation date: Tue May 27 10:32:55 UTC 2025
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
 #
@@ -24191,3 +24191,26 @@ zx0504.cn
 zxcadlniu.com
 zynof.press
 zzbbcwue.pw
+k2bsc.top
+edgeburst.sbs
+cnc.rspay.top
+qv.gahq.ru
+yxta.top
+fmovies123.top
+beginning.sparkattraction.com
+qaxib.ru
+cujob.ru
+lygep.ru
+6t.czlw.ru
+daviddarle.fr
+gypuq.ru
+lx7v9.top
+ou.qymj.ru
+cv.jyla.ru
+linhua97.top
+kihqk.run
+zovdt.run
+wydi.press
+dyky.press
+climatologfy.top
+nighetwhisper.top
