@@ -1,0 +1,45 @@
+#-------------------------------------------------------------------------------------------------------------------------
+# This file was generated using LevelBlue's AlienVault OTX platform by subscribing to the Maldatabase pulses.
+# File creation date: Mon Jun 02 15:56:00 UTC 2025
+# Update frequency  : undetermined
+# Creator           : https://github.com/allexBR/
+# Source            : https://otx.alienvault.com/user/maldatabase/pulses
+#
+# About: Open Threat Exchange (OTX) is a crowd-sourced computer-security platform who share potential threats daily.
+# Information sharing covers a wide range of issues related to security, including viruses, malware, intrusion detection
+# and firewalls.
+#  
+#
+# You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
+#
+# This report is free for non-commercial use ONLY!
+#-------------------------------------------------------------------------------------------------------------------------
+#
+smtp.amara.ir
+qnqzqdu.com
+qimhewk.info
+ormjaep.info
+ofadory.org
+libztef.net
+kzgzwfn.net
+jcwmfqh.net
+iruvyne.com
+fxmrqvp.info
+enabevw.com
+cvqxhve.info
+abkdexq.com
+ypcblfg.net
+ydynkbg.com
+wxcjmjq.org
+udyrydq.com
+sqjknhw.info
+qxyvqbg.org
+qshyadg.info
+qkbrmwi.net
+mxunapm.org
+kfcnutc.org
+ingpifm.org
+hyjvwvh.info
+fiqoykd.net
+ctmjmho.com
+bhrmztk.info
