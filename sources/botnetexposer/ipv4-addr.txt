@@ -3,8 +3,8 @@
 # File creation date: Mon Jun 02 16:00:46 UTC 2025
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
-# Tags              : Telnet, SSH, RDP, SMB, NetBIOS, MySQL, WP Bruteforce, SQLi, Proxy
 # Source            : https://otx.alienvault.com/user/BotnetExposer/pulses
+# Tags              : Telnet, SSH, RDP, SMB, NetBIOS, MySQL, WP Bruteforce, SQLi, Proxy
 #
 # About: Open Threat Exchange (OTX) is a crowd-sourced computer-security platform who share potential threats daily.
 # Information sharing covers a wide range of issues related to security, including viruses, malware, intrusion detection
