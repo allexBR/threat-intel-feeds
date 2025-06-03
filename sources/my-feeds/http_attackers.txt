@@ -1,0 +1,27 @@
+#-----------------------------------------------------------------------------------------------------------------------------
+# This file was generated using Open-Source Intelligence (OSINT) based on my personal research.
+# File creation date: Tue Jun 03 12:20:40 UTC 2025
+# Update frequency  : undetermined
+# Creator           : https://github.com/allexBR/
+# Tag               : HTTP Attack (high confidence)
+#
+# You are free to use, copy and distribute this file for non-profit purposes, but be careful and do at your own risk!
+#
+# This report is free for non-commercial use ONLY!
+#-----------------------------------------------------------------------------------------------------------------------------
+#
+123.30.149.126
+185.169.4.150
+196.251.71.144
+110.178.41.176
+129.232.136.91
+129.226.213.145
+66.63.187.21
+176.98.186.12
+196.189.9.233
+212.15.55.225
+198.98.59.103
+129.0.226.9
+179.43.180.114
+129.205.124.247
+129.205.124.214
