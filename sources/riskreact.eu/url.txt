@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------------------------------------------
 # This file was generated using LevelBlue's AlienVault OTX platform by subscribing to the RiskReact.eu pulses.
-# File creation date: Tue Jun 02 12:44:39 UTC 2025
+# File creation date: Tue Jun 03 12:44:39 UTC 2025
 # Update frequency  : undetermined
 # Creator           : https://github.com/allexBR/
 # Source            : https://otx.alienvault.com/user/RiskReact.eu/pulses
